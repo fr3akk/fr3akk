@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Chaudhry 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC & Blue Team | DevSecOps Tooling</h3>
+<h3 align="center">Cybersecurity Enthusiast | SOC & Blue Team | Threat Detection</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fr3akk&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
