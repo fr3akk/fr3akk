@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Ayush Chaudhry 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | SOC & Blue Team | Threat Detection</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fr3akk&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="assets/banner.png" width="100%" alt="Banner"/>
+</p>
+
+<h1 align="center">Building Security Tools That Solve Real Problems</h1>
+<p align="center">
   <a href="https://www.linkedin.com/in/ayush-chaudhry-43936328b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/ayushhxc"><img src="https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
 </p>
